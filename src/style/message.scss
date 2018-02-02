@@ -1,0 +1,54 @@
+.clsCtrlBtn {
+  border:1px solid #AAAAAA;
+  color:black;
+  cursor:pointer;
+  padding:4px;
+  margin:0px;
+}
+.clsMsgText {
+  test-align: left;
+  color: black;
+  margin-left:23px;
+}
+
+.clsMsgItem {
+  margin-left: 2px;
+  margin-right: 4px;
+  white-space: nowrap;
+  display: inline;
+  color:gray;
+}
+
+.clsOwnerMe, .clsOwnerOther {
+  padding-left: 5px;
+  display:inline;
+  font-weight:bold;
+}
+
+.clsOwnerMe { color:#777777; }
+.clsOwnerOther { color:#3B5998; }
+
+.clsMsgTime {
+  margin-right: 4px;
+  float:right;
+  white-space: nowrap;
+  display: inline;
+  color:#999999;
+  font-size:9px;
+  font-weight:normal;
+}
+
+.clsMsgIcon {
+  border: 0;
+  width:  20px;
+  height: 20px;
+  vertical-align: middle;
+  display: inline;
+}
+
+.clsMsgNormal {
+  padding: 2px;
+  word-wrap: break-word;
+  overflow: hidden;
+  margin-top:5px;
+}

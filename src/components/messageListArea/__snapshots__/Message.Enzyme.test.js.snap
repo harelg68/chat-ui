@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Message /> renders correctly 1`] = `
+<ListItem>
+  <ListContent>
+    <div
+      className="clsMsgNormal"
+    >
+      <div
+        className="clsMsgTime"
+      >
+        02/01/18 20:45:31
+      </div>
+      <img
+        className="clsMsgIcon"
+        src="https://spotim-demo-chat-server.herokuapp.com/avatars/004-jigglypuff.png"
+      />
+      <div
+        className="clsMsgItem clsOwnerMe"
+      >
+        User #3
+      </div>
+      <div
+        className="clsMsgText"
+      >
+        test message................................. (#2)
+      </div>
+    </div>
+  </ListContent>
+</ListItem>
+`;
+
+exports[`Testing <Message> component rendering should be rendered correctly 1`] = `
+<ListItem>
+  <ListContent>
+    <div
+      className="clsMsgNormal"
+    >
+      <div
+        className="clsMsgTime"
+      >
+        02/01/18 20:45:31
+      </div>
+      <img
+        className="clsMsgIcon"
+        src="dog.png"
+      />
+      <div
+        className="clsMsgItem clsOwnerMe"
+      >
+        Test user
+      </div>
+      <div
+        className="clsMsgText"
+      >
+        Test message...
+      </div>
+    </div>
+  </ListContent>
+</ListItem>
+`;
+
+exports[`Testing <Message> component renders correctly 1`] = `
+<ListItem>
+  <ListContent>
+    <div
+      className="clsMsgNormal"
+    >
+      <div
+        className="clsMsgTime"
+      >
+        02/01/18 20:45:31
+      </div>
+      <img
+        className="clsMsgIcon"
+        src="dog.png"
+      />
+      <div
+        className="clsMsgItem clsOwnerMe"
+      >
+        Test user
+      </div>
+      <div
+        className="clsMsgText"
+      >
+        Test message...
+      </div>
+    </div>
+  </ListContent>
+</ListItem>
+`;

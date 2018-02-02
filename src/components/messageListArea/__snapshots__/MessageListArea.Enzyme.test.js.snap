@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <MessageListArea> component rendering should be rendered correctly 1`] = `
+<div
+  class="ui container message-list-area"
+>
+  <div
+    class="ui list message-list"
+    role="list"
+  >
+    <div
+      class="item"
+      role="listitem"
+    >
+      <div
+        class="content"
+      >
+        <div
+          class="clsMsgNormal"
+        >
+          <div
+            class="clsMsgTime"
+          >
+            02/01/18 20:45:31
+          </div>
+          <img
+            class="clsMsgIcon"
+            src="dog.png"
+          >
+            
+          </img>
+          <div
+            class="clsMsgItem clsOwnerMe"
+          >
+            Harel
+          </div>
+          <div
+            class="clsMsgText"
+          >
+            Test message...
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
